@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="takeright Test Suite">
+        <testsuite name="onemoreblock Test Suite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

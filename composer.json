@@ -1,18 +1,18 @@
 {
-    "name": "takeright/php-orm",
+    "name": "onemoreblock/php-orm",
     "type": "library",
     "description": "A simple and inituative API for DB",
     "keywords": [
-        "takeright",
+        "onemoreblock",
         "php-orm"
     ],
-    "homepage": "https://github.com/takeright/php-orm",
+    "homepage": "https://github.com/onemoreblock/php-orm",
     "license": "MIT",
     "authors": [
         {
             "name": "Ram Bhosale",
             "email": "rambhosale9@gmail.com",
-            "homepage": "https://github.com/takeright",
+            "homepage": "https://github.com/onemoreblock",
             "role": "Developer"
         }
     ],
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "takeright\\php-orm\\": "src"
+            "OneMoreBlock\\ORM\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "takeright\\php-orm\\": "tests"
+            "OneMoreBlock\\ORM\\": "tests"
         }
     },
     "scripts": {

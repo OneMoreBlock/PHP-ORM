@@ -2,7 +2,7 @@
 
 Contributions are **welcome** and will be fully **credited**.
 
-We accept contributions via Pull Requests on [Github](https://github.com/takeright/php-orm).
+We accept contributions via Pull Requests on [Github](https://github.com/onemoreblock/php-orm).
 
 
 ## Pull Requests

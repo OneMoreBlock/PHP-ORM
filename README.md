@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```Ram Bhosale``` ```takeright``` ```https://github.com/takeright``` ```rambhosale9@gmail.com``` ```takeright``` ```php-orm``` ```A simple and inituative API for DB``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
+**Note:** Replace ```Ram Bhosale``` ```onemoreblock``` ```https://github.com/onemoreblock``` ```rambhosale9@gmail.com``` ```onemoreblock``` ```php-orm``` ```A simple and inituative API for DB``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -32,13 +32,13 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require takeright/php-orm
+$ composer require onemoreblock/php-orm
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new takeright\php-orm();
+$skeleton = new onemoreblock\php-orm();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 
@@ -69,17 +69,17 @@ If you discover any security related issues, please email rambhosale9@gmail.com 
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/takeright/php-orm.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/onemoreblock/php-orm.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/takeright/php-orm/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/takeright/php-orm.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/takeright/php-orm.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/takeright/php-orm.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/onemoreblock/php-orm/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/onemoreblock/php-orm.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/onemoreblock/php-orm.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/onemoreblock/php-orm.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/takeright/php-orm
-[link-travis]: https://travis-ci.org/takeright/php-orm
-[link-scrutinizer]: https://scrutinizer-ci.com/g/takeright/php-orm/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/takeright/php-orm
-[link-downloads]: https://packagist.org/packages/takeright/php-orm
-[link-author]: https://github.com/takeright
+[link-packagist]: https://packagist.org/packages/onemoreblock/php-orm
+[link-travis]: https://travis-ci.org/onemoreblock/php-orm
+[link-scrutinizer]: https://scrutinizer-ci.com/g/onemoreblock/php-orm/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/onemoreblock/php-orm
+[link-downloads]: https://packagist.org/packages/onemoreblock/php-orm
+[link-author]: https://github.com/onemoreblock
 [link-contributors]: ../../contributors
